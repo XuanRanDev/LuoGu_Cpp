@@ -3,4 +3,4 @@ project(LuoGu_Cpp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(LuoGu_Cpp P1045麦森数.cpp)
+add_executable(LuoGu_Cpp P1045.cpp)
