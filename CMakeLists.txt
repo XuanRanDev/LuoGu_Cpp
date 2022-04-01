@@ -3,4 +3,4 @@ project(LuoGu_Cpp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(LuoGu_Cpp P1032.cpp)
+add_executable(LuoGu_Cpp P1044.cpp)
